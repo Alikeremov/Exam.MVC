@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pigga.Mvc.Exam.props" />
+</Project>
