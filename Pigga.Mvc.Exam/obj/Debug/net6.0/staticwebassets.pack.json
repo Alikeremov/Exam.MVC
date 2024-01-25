@@ -365,6 +365,18 @@
       "PackagePath": "staticwebassets\\assets\\css\\pigga.css"
     },
     {
+      "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\3942d1af-da1f-47f3-a765-bfe786ee02d3about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\3942d1af-da1f-47f3-a765-bfe786ee02d3about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\40f913e9-2196-4dc7-a821-8031eb451b95chef-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\40f913e9-2196-4dc7-a821-8031eb451b95chef-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\41d75b97-9128-4d24-b261-9556e40a3b46chef-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\41d75b97-9128-4d24-b261-9556e40a3b46chef-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\about-1.jpg",
       "PackagePath": "staticwebassets\\assets\\imgs\\about-1.jpg"
     },
@@ -391,10 +403,6 @@
     {
       "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\avatar.jpg",
       "PackagePath": "staticwebassets\\assets\\imgs\\avatar.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\c2c01265-6c33-462f-904a-91d7d2b59ac5client.jpg",
-      "PackagePath": "staticwebassets\\assets\\imgs\\c2c01265-6c33-462f-904a-91d7d2b59ac5client.jpg"
     },
     {
       "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\chef-1.jpg",
@@ -435,6 +443,10 @@
     {
       "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\dish-6.jpg",
       "PackagePath": "staticwebassets\\assets\\imgs\\dish-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\fb46f35d-b708-465d-a9bc-b6f0e330d2b4chef-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\fb46f35d-b708-465d-a9bc-b6f0e330d2b4chef-1.jpg"
     },
     {
       "Id": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\wwwroot\\assets\\imgs\\header.jpg",
