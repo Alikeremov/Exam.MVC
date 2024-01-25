@@ -66,17 +66,17 @@
                     @if (User.Identity.IsAuthenticated)
                     {
                         <li class="nav-item">
-                            <a asp-action="Logout" asp-controller="Account" asp-area="manage">Logout</a>
+                            <a class="nav-link" asp-action="Logout" asp-controller="Account" asp-area="manage">Logout</a>
                         </li>
-                        <li>
+                        <li class="nav-item">
                             @* burdaki ada klik ederek admin sehifesine kecmek olur  *@
-                            <a asp-action="Index" asp-controller="DashBoard" asp-area="manage">@User.Identity.Name</a>
+                            <a class="nav-link" asp-action="Index" asp-controller="DashBoard" asp-area="manage">@User.Identity.Name</a>
                         </li class="nav-item">
                     }
                     else
                     {
                         <li class="nav-item">
-                            <a asp-action="Login" asp-controller="Account" asp-area="manage">Login</a>
+                            <a class="nav-link" asp-action="Login" asp-controller="Account" asp-area="manage">Login</a>
                         </li>
                     }
                 </ul>
