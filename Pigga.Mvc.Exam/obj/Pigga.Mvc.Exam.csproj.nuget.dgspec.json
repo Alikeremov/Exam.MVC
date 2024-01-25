@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.03\\Desktop\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj": {}
+    "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.03\\Desktop\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj": {
+    "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.03\\Desktop\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj",
         "projectName": "Pigga.Mvc.Exam",
-        "projectPath": "C:\\Users\\ca.r214.03\\Desktop\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj",
+        "projectPath": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\Pigga.Mvc.Exam.csproj",
         "packagesPath": "C:\\Users\\ca.r214.03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.03\\Desktop\\Pigga.Mvc.Exam\\obj\\",
+        "outputPath": "C:\\Users\\ca.r214.03\\Desktop\\Exam.MVC\\Pigga.Mvc.Exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
